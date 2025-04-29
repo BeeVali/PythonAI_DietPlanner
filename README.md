@@ -22,3 +22,6 @@ Diet-Planner
 
 # Author
 Necula Valentin-Cristian (through Neural Networks Course)
+
+![image](https://github.com/user-attachments/assets/3e1370bb-27a0-475b-ad25-368e6565b49c)
+
