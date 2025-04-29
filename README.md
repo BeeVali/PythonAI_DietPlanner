@@ -13,7 +13,7 @@ Diet-Planner
    gradio==5.12.0
    openai==0.28.0
 3. Install the required libraries using the command:
-   pip install -r requirements.txt
+   pip install gradio==5.12.0 openai==0.28.0
 4. Set the API key in CMD, as an administrator, using the key provided from platform.openai.com:
    setx OPENAI_API_KEY "your_openai_api_key"
 5. Run the application with:
